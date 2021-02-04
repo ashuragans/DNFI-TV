@@ -1,2 +1,10 @@
-#EXTINF:-1 tvg-logo="https://otakumobileague.b-cdn.net/wp-content/uploads/2020/04/DoraNobi-Fansub-Doraemon-1024x576.jpg",DNFI-TV
+#EXTINF:-1 tvg-id="DNFI-TV" tvg-name="DNFI-TV" group-title="KIDS" tvg-logo="https://otakumobileague.b-cdn.net/wp-content/uploads/2020/04/DoraNobi-Fansub-Doraemon-1024x576.jpg",DNFI-TV
 https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/CtoExTEIE17NpA-MoEHkNUhNOdvq3P0JOL9c4bTQx8VVOahSDahmx3-rOyEnBHzRYNr49qNbCMfkCidbhKVjiUJsEDbGsX70Zicamir5pv5v5k3in6W6YokMLzVl1mbz84a6aqAQ8t6JXZoWZAM4dpyKc1cISBlJaLkBKBLhb2bdpSlf1In4kYy6yZtD0HkI2VaoD-3XBuFgXkJPZHcvQ7ExuXtNn66k9fi3kEmrL7XYQRqkwKdezFJSL4I4dHRoWhfrYMf2hBAOKRexX6dfwgWh9AIXRjGbaRvwzQ8cxiNRRjX7fODNf5_46_YZmKKpBEc33Zo9KYIRWvwqAbNKEx6xP9607mm9C4e4LSMlOvBI_Ts1337rSjNePIzpT9d-XUg6CCXEfU-ZvVjKwW7x7A3OeIJp7D3yZ1c5bHT67pTOCLiatL7HmKMVwFPK7E-quSECx56nSfntz_pnT-_BoJHEB97BcMPNyJw3uJi-beKcmfxV_I8H4CJNYu38H76VfKJ_x6m3OPzE8tJf7tc_IafUsNlKiL32ckPWplEqVGCO6MK85Ou8AC0tbT6Rvb70LI5NydQfX-Zohu0GzZhmErvpBWz1kv5bqdzQRlBq7yCmQRpihIfvZCWcC6d70JtvsTknoq7IdbvuqOmDvibh2HtyYpD1cZJlOlCxaYOdV6JI6r-kHkjALyAuH950bZE4h73HK0ZfIWA4-RdbnvTBOetYMUU4DoOIZ-zEYizgmFTLAoONqCyJq9GbTBO98w5emuHjUSXTd2F4BKzWBggu8hrBSfzqiL9PfUsWn2USEJqKTnF7TMsucb4Elc7nIBUaDLNO5cFsdBA9vjvQEg.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="KIDS TV" tvg-name="KIDS TV" group-title="KIDS" tvg-logo="https://nonton.iptv.my.id/wp-content/uploads/2020/07/kidstv.png",KIDS TV
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 tvg-id="SPACETOON" tvg-name="SPACETOON" group-title="KIDS" tvg-logo="https://seeklogo.com/images/S/space-toon-logo-5BED7667B1-seeklogo.com.png",SPACETOON
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w8736125.m3u8

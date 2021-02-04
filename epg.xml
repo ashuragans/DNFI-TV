@@ -1,0 +1,23 @@
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DNFI-TV">
+    <display-name lang="en">DNFI-TV</display-name>
+  </channel>
+  <channel id="KIDS TV">
+    <display-name lang="en">KIDS TV</display-name>
+  </channel>
+  <channel id="SPACETOON">
+    <display-name lang="en">SPACETOON</display-name>
+  </channel>
+  </programme>
+  <programme start="20210131000000 +0800" stop="20250131003000 +0800" channel="DNFI-TV">
+    <title lang="en">Doraemon Series and Movies</title>
+    <desc lang="en">Ikuti bersama petualangan Nobita dan Doraemon dalam misi penting penyelamatan dunia.(n)</desc>
+  </programme>
+  <programme start="20210131003000 +0800" stop="20250131010000 +0800" channel="KIDS TV">
+    <title lang="en">Serial Animasi Dari MNC GROUP</title>
+    <desc lang="en">Saksikan petualangan bawah laut bersama Kiko dan bermain di desa bersama Si Entong serta menyelamatkan dunia dengan Satria Garuda Bima X.(n)</desc>
+  </programme>
+  <programme start="20210131010000 +0800" stop="20250131013000 +0800" channel="SPACETOON">
+    <title lang="en">Kartun Anak Pilihan</title>
+    <desc lang="en">TV Anak Spacetoon adalah sebuah stasiun televisi swasta berjaringan di Indonesia yang mengutamakan target pemirsa anak-anak.(n)</desc>
+  </programme>
